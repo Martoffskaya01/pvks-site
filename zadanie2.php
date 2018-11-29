@@ -36,7 +36,8 @@
 						$i++;
 						break;
 					}
-				} while ($temp!=0);
+				}
+				while ($temp!=0);
 					$i++;
 				}
 				for($i=0;$i<sizeof($mas);$i++){
