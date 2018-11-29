@@ -17,6 +17,7 @@
 				echo "Деление: {$number1} / {$number2} = {$division}<br>";
 			}
 			else echo "Деление: Деление невозможно. Делитель меньше нуля<br>";
+			echo "Byka";
 			
 		?>
 </html>
